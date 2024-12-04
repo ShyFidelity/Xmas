@@ -5,9 +5,17 @@ body, html {
     font-family: Arial, sans-serif;
     background-color: #f9f9f9;
     scroll-behavior: smooth;
+    background: rgb(110,214,39);
+background: linear-gradient(0deg, rgba(110,214,39,1) 5%, rgba(175,9,68,1) 81%);
+}
+
+body {
+    background: rgb(110,214,39);
+background: linear-gradient(0deg, rgba(110,214,39,1) 5%, rgba(175,9,68,1) 81%);
 }
 
 .container {
+    
     width: 100%;
 }
 
@@ -18,22 +26,21 @@ section {
 }
 
 .hero {
-    background-color: #4CAF50;
     color: white;
 }
 
 .about {
-    background-color: #ffffff;
+    background-color: #ffffff16;
     color: #333;
 }
 
 .services {
-    background-color: #f4f4f4;
+    background-color: #f4f4f41b;
     color: #333;
 }
 
 .contact {
-    background-color: #333;
+    background-color: #33333310;
     color: white;
 }
 
