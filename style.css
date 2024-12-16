@@ -97,11 +97,19 @@ h2 {
 }
 
 ul {
-    list-style-type: disc;
+    list-style-type:georgian;
     margin: 20px 0;
     padding-left: 20px;
+    align-items: left;
+    font-family: "Roboto Mono", monospace;
+
+}
+
+li {
+    font-family: "Roboto Mono", monospace;
+
 }
 .highlight {
-    color: #5cb85c;
+    color: #490e2a;
     font-weight: bold;
 }
